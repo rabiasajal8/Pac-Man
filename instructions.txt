@@ -1,0 +1,35 @@
+INSTRUCTIONS:
+
+1. Use the arrow keys to move Pacman around the maze.
+   The keys are:-
+   'W' Key - Move Up
+   'S' Key - Move Down
+   'A' Key - Move Left
+   'D' Key - Move Right
+   Any other key (except esc) will make Pacman freeze at spot.
+   
+2. Complete the level by eating the dots.
+
+3. Each level has a critical score which you must obtain to proceed to the 
+   next level.
+
+4. The Critical Scores are:
+   Level 1 - 180
+   Level 2 - 180
+   Level 3 - 180
+   Level 4 - 270
+   Level 5 - 270
+   
+5. Avoid the monsters, if they catch you, you will die and loose all points 
+   scored in the level.
+   However, your current level number will be saved. You can restart the level.
+   
+6. If you press 'esc' key during gameplay, you will die and loose all points
+   scored in the level.
+   However, your current level number will be saved. You can restart the level.
+   
+7. On completing all levels you cannot proceed any further.
+   However, you can restart the game from the beginning.
+   This will reset your scores too.
+   
+8. Enjoy the game.
